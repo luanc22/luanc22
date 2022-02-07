@@ -1,7 +1,2 @@
-- 👋 Hi, I’m Luan Cabral (@luanc22)
-- 🌱 I’m currently learning C# with .NET and web development.
-- 💞️ I’m looking to collaborate on any projects.
-- 📫 How to reach me @Wogio#2211 on discord.
-- 🌎 I'm from Brazil, but I can understand and talk in english.
-
+![image](https://user-images.githubusercontent.com/49588133/152872029-5bdcc38f-b38b-434d-b4bb-5a56b473da8c.png)
 
