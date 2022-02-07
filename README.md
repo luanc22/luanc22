@@ -10,33 +10,18 @@ Then, in 2022, I had the opportunity to join the class of the "Academia do Progr
  
  Summary — 📜
  
- 🌎 — Languages:
- • Portuguese (Native/Fluent)
- • English (Intermediary)
- • Spanish (Intermediary)
- • French (Beginner)
+ 🌎 — Languages: Portuguese (Native/Fluent); English (Intermediary); Spanish (Intermediary); French (Beginner).
  
- ⌨️ — Programming Languages:
- • C# (Intermediary)
- • C (Beginner)
- • Java (Intermediary)
- • Python (Intermediary)
- • HTML/CSS (Advanced)
- • JavaScript (Beginner)
+ ⌨️ — Programming Languages: C# (Intermediary); C (Beginner); Java (Intermediary); Python (Intermediary); HTML/CSS (Advanced); JavaScript (Beginner).
  
  ⭐ — Experiences:
  • Never had a opportunity to work as a developer yet, but I have former experiences with costumer support and infrastructure.
  
- 🚀 — Carreer Goals:
- • I'm looking for a opportunity to work as a developer and grown in the area, to creat a path where I can get more experience and learnings to form a stable life for myself.
- • Currently looking to collaborate on any projects that involves any of the programming languages that I know, application or web.
+ 🚀 — Carreer Goals: I'm looking for a opportunity to work as a developer and grown in the area, to creat a path where I can get more experience and learnings to form a stable life for myself, and I'm currently looking to collaborate on any projects that involves any of the programming languages that I know, application or web.
  
- 🌱 — Learning:
- • I’m currently learning C# with .NET, and next, looking forward to get a more deep knowledge on JavaScript.
+ 🌱 — Learning: I’m currently learning C# with .NET, and next, looking forward to get a more deep knowledge on JavaScript.
  
- 📫 Contact:
- • You can find me on discord, my tag is Wogio#5566.
- • My contact e-mail is luancabral5566@gmail.com
+ 📫 Contact: You can find me on discord, my tag is Wogio#5566 or my contact e-mail is luancabral5566@gmail.com
  
  Thanks for reading and I hope you have a nice day. ☘️ 
  
