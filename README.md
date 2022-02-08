@@ -16,7 +16,7 @@ Then, in 2022, I had the opportunity to join the class of the "Academia do Progr
  
  ⭐ — Experiences: Never had a opportunity to work as a developer yet, but I have former experiences with costumer support and infrastructure.
  
- 🚀 — Carreer Goals: I'm looking for a opportunity to work as a developer and grown in the area, to creat a path where I can get more experience and learnings to form a stable life for myself, and I'm currently looking to collaborate on any projects that involves any of the programming languages that I know, application or web.
+ 🚀 — Carreer Goals: I'm looking for a opportunity to work as a developer and grown in the area, to create a path where I can get more experience and learnings to form a stable life for myself, and I'm currently looking to collaborate on any projects that involves any of the programming languages that I know, application or web.
  
  🌱 — Learning: I’m currently learning C# with .NET, and next, looking forward to get a more deep knowledge on JavaScript.
  
