@@ -12,7 +12,7 @@ Then, in 2022, I had the opportunity to join the class of the "Academia do Progr
  
  🌎 — Languages: Portuguese (Native/Fluent); English (Intermediary); Spanish (Intermediary); French (Beginner).
  
- ⌨️ — Programming Languages: C# (Intermediary); C (Beginner); Java (Intermediary); Python (Intermediary); HTML/CSS (Advanced); JavaScript (Beginner).
+ ⌨️ — Programming Languages: C# (Intermediary); Java (Intermediary); Python (Intermediary); HTML/CSS (Intermediaty); JavaScript (Beginner); C (Beginner).
  
  ⭐ — Experiences: Never had a opportunity to work as a developer yet, but I have former experiences with costumer support and infrastructure.
  
