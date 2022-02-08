@@ -4,7 +4,7 @@ My name is Luan Cabral and I was born on 11/22/01, this is why my username goes 
 
 I was born and raised in São Paulo, Brazil, but in 2019 I got a scholarship to study Computer Science at the Federal Institute of Santa Catarina, so I moved to the state of Santa Catarina, where I am currently studying during the morning.
 
-I got into computers and technology when I was about 8 years old because of my father (I love you dad) and since then, I've been thrilled to discover new things about this digital world, so I got into programming when I was about 15, started with Python until I got to College, where I learned mostly Java and a little of C.
+I got into computers and technology when I was about 8 years old because of my father (love you dad) and since then, I've been thrilled to discover new things about this digital world, so I got into programming when I was about 15, started with Python until I got to College, where I learned mostly Java and a little of C.
 
 Then, in 2022, I had the opportunity to join the class of the "Academia do Programador", a course to train developers and position them for the job market, where I am currently attending during the afternoon and learning C#.
  
@@ -12,7 +12,7 @@ Then, in 2022, I had the opportunity to join the class of the "Academia do Progr
  
  🌎 — Languages: Portuguese (Native/Fluent); English (Intermediary); Spanish (Intermediary); French (Beginner).
  
- ⌨️ — Programming Languages: C# (Intermediary); Java (Intermediary); Python (Intermediary); HTML/CSS (Intermediaty); JavaScript (Beginner); C (Beginner).
+ ⌨️ — Programming Languages: C# (Intermediary); Java (Intermediary); Python (Intermediary); HTML/CSS (Intermediary); JavaScript (Beginner); C (Beginner).
  
  ⭐ — Experiences: Never had a opportunity to work as a developer yet, but I have former experiences with costumer support and infrastructure.
  
