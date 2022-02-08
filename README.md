@@ -1,4 +1,4 @@
-Welcome to my profile! — 💻
+Welcome to my Github! — 💻
 
 My name is Luan Cabral and I was born on 22/11/01, so my username goes @luanc22.
 
