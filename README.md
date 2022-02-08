@@ -1,6 +1,6 @@
 Welcome to my Github! — 💻
 
-My name is Luan Cabral and I was born on 22/11/01, so my username goes @luanc22.
+My name is Luan Cabral and I was born on 22/11/01, this is why my username goes by @luanc22.
 
 I was born and raised in São Paulo, Brazil, but in 2019 I got a scholarship to study Computer Science at the Federal Institute of Santa Catarina, so I moved to the state of Santa Catarina, where I am currently studying during the morning.
 
