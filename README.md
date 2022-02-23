@@ -20,7 +20,7 @@ Then, in 2022, I had the opportunity to join the class of the "Academia do Progr
  
  🌱 — Learning: I’m currently learning C# with .NET, and next, looking forward to get a more deep knowledge on JavaScript.
  
- 📫 — Contact: You can find me on discord, my tag is Wogio#5566 or my contact e-mail is luancabral5566@gmail.com
+ 📫 — Contact: You can find me on discord, my tag is Luann#7459 or my contact e-mail is luancabral5566@gmail.com
  
  Thanks for reading and I hope you have a nice day. ☘️ 
  
