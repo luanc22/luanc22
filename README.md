@@ -1,5 +1,7 @@
 Welcome to my Github! — 💻
 
+![](https://komarev.com/ghpvc/?luanc22&color=grey&style=for-the-badge)
+
 My name is Luan Cabral and I was born on 11/22/01, this is why my username goes by @luanc22.
 
 I was born and raised in São Paulo, Brazil, but in 2019 I got a scholarship to study Computer Science at the Federal Institute of Santa Catarina, so I moved to the state of Santa Catarina, where I am currently studying during the morning.
@@ -20,7 +22,7 @@ Then, in 2022, I had the opportunity to join the class of the "Academia do Progr
  
  🌱 — Learning: I’m currently learning C# with .NET, and next, looking forward to get a more deep knowledge on JavaScript.
  
- 📫 — Contact: You can find me on discord, my tag is Luann#7459 or my contact e-mail is luancabral5566@gmail.com
+ 📫 — Contact: You can find me on discord, my tag is Lu4n#6364 or my contact e-mail is luancabral5566@gmail.com
  
  Thanks for reading and I hope you have a nice day. ☘️ 
  
