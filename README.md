@@ -4,8 +4,6 @@
 
 ## I'm a tech enthusiast, a developer and a learner.
 
-About me — 📜
-
 🌎 — Languages: Portuguese (Native/Fluent); English (Intermediary); Spanish (Intermediary); French (Beginner).
 
 ⭐ — Experiences: Never had a opportunity to work as a developer yet, but I have former experiences with costumer support and infrastructure.
