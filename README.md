@@ -1,6 +1,6 @@
 Welcome to my Github! — 💻
 
-![](https://komarev.com/ghpvc/?luanc22&color=grey&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=luanc22&color=grey&style=for-the-badge)
 
 My name is Luan Cabral and I was born on 11/22/01, this is why my username goes by @luanc22.
 
