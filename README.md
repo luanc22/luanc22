@@ -6,7 +6,7 @@
 
 🌎 — Languages: Portuguese (Native/Fluent); English (Intermediary); Spanish (Intermediary); French (Beginner).
 
-⭐ — Experiences: Never had a opportunity to work as a developer yet, but I have former experiences with costumer support and infrastructure.
+⭐ — Experiences: I never had an opportunity to work as a developer yet, but I have former experiences with costumer support and infrastructure.
 
 🚀 — Carreer Goals: I'm looking for a opportunity to work as a developer and grown in the area, to create a path where I can get more experience and learnings to form a stable life for myself, and I'm currently looking to collaborate on any projects that involves any of the programming languages that I know, application or web.
 
