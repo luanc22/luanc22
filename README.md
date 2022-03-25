@@ -17,14 +17,14 @@ About me — 📜
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/Wogioo#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Wogioo#gh-dark-mode-only)
+(./img/twitter-light.svg)](https://twitter.com/Wogioo#gh-light-mode-only)
+(./img/twitter-dark.svg)](https://twitter.com/Wogioo#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/luanc22/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/luanc22/#gh-dark-mode-only)
+(./img/linkedin-light.svg)](https://www.linkedin.com/in/luanc22/#gh-light-mode-only)
+(./img/linkedin-dark.svg)](https://www.linkedin.com/in/luanc22/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/cabr_luan/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/cabr_luan/#gh-dark-mode-only)
+(./img/instagram-light.svg)](https://www.instagram.com/cabr_luan/#gh-light-mode-only)
+(./img/instagram-dark.svg)](https://www.instagram.com/cabr_luan/#gh-dark-mode-only)
 
 ### Languages and Tools:
 
