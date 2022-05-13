@@ -15,9 +15,6 @@
 
 ### Connect with me:
 
-[![twitter](./img/twitter-light.svg)](https://twitter.com/Wogioo#gh-light-mode-only)
-[![twitter](./img/twitter-dark.svg)](https://twitter.com/Wogioo#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/luanc22/#gh-light-mode-only)
 [![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/luanc22/#gh-dark-mode-only)
 &nbsp;&nbsp;
