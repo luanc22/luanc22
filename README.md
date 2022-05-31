@@ -1,4 +1,4 @@
-# Hey you, you're finally awake! I'm Luan! - Welcome to my GitHub 💻
+# Hey you, you're finally awake! I'm Luan, welcome to my GitHub 💻
 
 ![](https://komarev.com/ghpvc/?username=luanc22&color=grey&style=for-the-badge)
 
