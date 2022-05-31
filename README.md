@@ -1,4 +1,6 @@
-# Hey you, you're finally awake! I'm Luan, welcome to my GitHub 💻
+# I'm Luan, welcome to my GitHub 💻
+
+"Hey you, you're finally awake!" - Ralof of Riverwood.
 
 ![](https://komarev.com/ghpvc/?username=luanc22&color=grey&style=for-the-badge)
 
