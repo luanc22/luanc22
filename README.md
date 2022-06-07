@@ -1,12 +1,12 @@
-# I'm Luan, welcome to my GitHub 💻
+# My name is Luan, welcome to my GitHub 💻
 
 "Hey you, you're finally awake!" - Ralof of Riverwood.
 
 ![](https://komarev.com/ghpvc/?username=luanc22&color=grey&style=for-the-badge)
 
-## I'm a tech enthusiast, a developer and a learner.
+## I'm a tech enthusiast, a developer and a gamer.
 
-🌎 — Languages: Portuguese (Native/Fluent); English (Intermediary); Spanish (Intermediary); French (Beginner).
+🌎 — Languages: Portuguese (Native/Fluent); English (Intermediary); Spanish (Beginner); French (Beginner).
 
 ⭐ — Experiences: I never had an opportunity to work as a developer, but I have former experiences with costumer support and infrastructure.
 
