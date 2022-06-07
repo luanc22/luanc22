@@ -1,6 +1,6 @@
 # My name is Luan, welcome to my GitHub 💻
 
-"Hey you, you're finally awake!" - Ralof of Riverwood.
+> "_Hey you, you're finally awake!_" - _Ralof of Riverwood._
 
 ![](https://komarev.com/ghpvc/?username=luanc22&color=grey&style=for-the-badge)
 
@@ -12,7 +12,7 @@
 
 🚀 — Carreer Goals: I'm looking for a opportunity to work as a developer and grown in the area, to create a path where I can get more experience and learnings to form a stable life for myself, and I'm currently looking to collaborate on any projects that involves any of the programming languages that I know, application or web.
 
-🌱 — Learning: I’m currently learning C# with .NET.
+🌱 — Learning: I’m currently learning C# with .NET and Java.
 
 
 ### Connect with me:
