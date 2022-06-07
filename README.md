@@ -2,8 +2,6 @@
 
 > "_Hey you, you're finally awake!_" - _Ralof of Riverwood._
 
-![](https://komarev.com/ghpvc/?username=luanc22&color=grey&style=for-the-badge)
-
 ## I'm a tech enthusiast, a developer and a gamer.
 
 🌎 — Languages: Portuguese (Native/Fluent); English (Intermediary); Spanish (Beginner); French (Beginner).
@@ -14,6 +12,7 @@
 
 🌱 — Learning: I’m currently learning C# with .NET and Java.
 
+![](https://komarev.com/ghpvc/?username=luanc22&color=grey&style=for-the-badge)
 
 ### Connect with me:
 
