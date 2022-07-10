@@ -51,7 +51,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luanc22&show_icons=true&theme=gotham&locale=en&layout=compact&langs_count=10&hide=makefile,shell,vue,tsql,cmake,brainfuck" width="450"  /></p>
 
-</p><img align="right" alt="Luan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=luanc22&show_icons=true&theme=gotham" width="500" /></p>
+</p><img align="right" alt="Luan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=luanc22&show_icons=true&theme=gotham" width="470" /></p>
 
 <br></br>
 
