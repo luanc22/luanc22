@@ -46,9 +46,6 @@
 
 ##
 
-<br />
-<br />
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luanc22&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=10&hide=makefile,shell,vue,tsql,cmake,brainfuck" /></p>
 
 </p><img align="center" alt="Luan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=luanc22&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /></p>
