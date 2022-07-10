@@ -14,6 +14,8 @@
 
 ![](https://komarev.com/ghpvc/?username=luanc22&color=grey&style=for-the-badge)
 
+##
+
 ### Connect with me:
  
 <div> 
@@ -47,13 +49,12 @@
 <br></br>
 ##
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luanc22&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=10&hide=makefile,shell,vue,tsql,cmake,brainfuck" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luanc22&show_icons=true&theme=gotham&locale=en&layout=compact&langs_count=10&hide=makefile,shell,vue,tsql,cmake,brainfuck" width="470"  /></p>
 
-</p><img align="right" alt="Luan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=luanc22&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /></p>
+</p><img align="right" alt="Luan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=luanc22&show_icons=true&theme=gotham" width="500" /></p>
 
 <br></br>
 
-##
 
 ![Snake animation](https://github.com/luanc22/luanc22/blob/output/github-contribution-grid-snake.svg)
 
