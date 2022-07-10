@@ -44,6 +44,7 @@
 
 </div>
 
+<br></br>
 ##
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luanc22&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=10&hide=makefile,shell,vue,tsql,cmake,brainfuck" /></p>
