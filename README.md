@@ -15,15 +15,20 @@
 ![](https://komarev.com/ghpvc/?username=luanc22&color=grey&style=for-the-badge)
 
 ### Connect with me:
+ 
+<div> 
+<a href="https://www.instagram.com/cabr_luan/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.twitch.tv/wogioo" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<a href ="mailto:luancabral5566@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/luanc22/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
 
-[![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/luanc22/#gh-light-mode-only)
-[![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/luanc22/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![instagram](./img/instagram-light.svg)](https://www.instagram.com/cabr_luan/#gh-light-mode-only)
-[![instagram](./img/instagram-dark.svg)](https://www.instagram.com/cabr_luan/#gh-dark-mode-only)
+##
 
 ### Languages and Tools:
 
+<div>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png" style="padding-right:10px;" />
 <img align="left" alt="CSharp" width="26px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" style="padding-right:10px;" />
@@ -37,6 +42,9 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" style="padding-right:10px;" />
 
+</div>
+
+##
 
 <br />
 <br />
@@ -45,6 +53,7 @@
 
 </p><img align="left" alt="Luan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=luanc22&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /></p>
 
-[twitter]: https://twitter.com/Wogioo
-[instagram]: https://www.instagram.com/cabr_luan/
-[linkedin]: https://www.linkedin.com/in/luanc22/
+##
+
+![Snake animation](https://github.com/luanc22/luanc22/blob/output/github-contribution-grid-snake.svg)
+##
