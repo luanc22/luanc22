@@ -31,8 +31,6 @@
 ### Languages and Tools:
 
 <div>
-<img align="left" alt="Visual Studio Code" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" title="VSCode" />
-<img align="left" alt="Visual Studio" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png" style="padding-right:10px;" title="Visual Studio" />
 <img align="left" alt="CSharp" width="40px" height="40px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" style="padding-right:10px;" title="CSharp" />
 <img align="left" alt="C" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" style="padding-right:10px;" title="C"/>
 <img align="left" alt="Python" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" style="padding-right:10px;" title="Python" />
@@ -41,6 +39,9 @@
 <img align="left" alt="CSS3" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" title="CSS3"/>
 <img align="left" alt="PostgreSQL" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" style="padding-right:10px;" title="PostgreSQL"/>
 <img align="left" alt="Microsoft SQL Server" width="40px" height="40px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="padding-right:10px;" title="Microsoft SQL Server"/> 
+<img align="left" alt="Visual Studio Code" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" title="VSCode" />
+<img align="left" alt="Visual Studio" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png" style="padding-right:10px;" title="Visual Studio" />
+<img align="left" alt="NetBeans" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" style="padding-right:10px;" title="NetBeans" />
 <img align="left" alt="Git" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" title="Git"/>
 <img align="left" alt="GitHub" width="40px" height="40px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" style="padding-right:10px;" title="Github"/>
 <img align="left" alt="GitHub" width="40px" height="40px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" style="padding-right:10px;" title="Github"/>
