@@ -32,7 +32,6 @@
 
 <div>
 <img align="left" alt="CSharp" width="40px" height="40px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" style="padding-right:10px;" title="CSharp" />
-<img align="left" alt="C" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" style="padding-right:10px;" title="C"/>
 <img align="left" alt="Python" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" style="padding-right:10px;" title="Python" />
 <img align="left" alt="Java" width="40px" height="40px" src="https://brandlogos.net/wp-content/uploads/2021/11/java-logo.png" style="padding-right:10px;" title="Java" />
 <img align="left" alt="HTML5" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" title="HTML5"/>
