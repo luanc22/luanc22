@@ -53,7 +53,7 @@
 
 </div>
 <img align="left" alt="JavaScript" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="padding-right:10px;" title="JavaScript" />
-<img align="left" alt="React Native" width="40px" height="40px" src="https://user-images.githubusercontent.com/49588133/178794823-f826e137-784e-4233-94c1-6bf2ae7ed897.png" style="padding-right:10px;" title="React Native" />
+<img align="left" alt="React Native" width="40px" height="40px" src="https://e7.pngegg.com/pngimages/661/898/png-clipart-react-javascript-library-web-development-vue-js-funding-icon-logo-symmetry.png" style="padding-right:10px;" title="React Native" />
 </div>
 
 <br></br>
