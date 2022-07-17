@@ -4,7 +4,7 @@
 
 ## I'm a tech enthusiast, a developer and a gamer.
 
-🌎 — Languages: Portuguese (Native/Fluent); English (Intermediary); Spanish (Beginner); French (Beginner).
+🌎 — Languages: Portuguese (Native/Fluent); English (Advanced); Spanish (Beginner); French (Beginner).
 
 ⭐ — Experiences: I never had an opportunity to work as a developer, but I have former experiences with costumer support and infrastructure.
 
