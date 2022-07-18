@@ -63,13 +63,11 @@
 ### I am interested in learning:
 
 <div>
-<img align="left" alt="Kotlin" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/512px-Kotlin_Icon.svg.png?20171012085709" style="padding-right:10px;" title="Kotlin" />
- <img align="left" alt="Angular" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png" style="padding-right:10px;" title="Angular" />
+
+<img align="left" alt="Angular" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png" style="padding-right:10px;" title="Angular" />
  <img align="left" alt="React" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" style="padding-right:10px;" title="React" />
 <img align="left" alt="Intellij" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" style="padding-right:10px;" title="Intellij"/>
-<img align="left" alt="Swift" width="40px" height="40px" src="https://cdn4.iconfinder.com/data/icons/logos-3/504/Swift-2-512.png" style="padding-right:10px;" title="Swift"/>
-<img align="left" alt="Android Studio" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" style="padding-right:10px;" title="Android Studio"/>
-</div>
+
 <br></br>
 
 ##
