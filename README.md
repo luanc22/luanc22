@@ -75,7 +75,7 @@
 
 </p><img align="left" alt="Luan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=luanc22&show_icons=true&theme=chartreuse-dark" width="460" /></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=luanc22&show_icons=true&theme=chartreuse-dark&locale=en&layout=compact&langs_count=10&hide=makefile,shell,vue,tsql,cmake,brainfuck" width="340"  /></p>
-<p><img width="1000" margin-top="10" src="https://github-profile-trophy.vercel.app/?username=luanc22&theme=matrix&no-frame=true&column=-1" /></p>
+<!--- <p><img width="1000" margin-top="10" src="https://github-profile-trophy.vercel.app/?username=luanc22&theme=matrix&no-frame=true&column=-1" /></p> ---> 
 
 ![Snake animation](https://github.com/luanc22/luanc22/blob/output/github-contribution-grid-snake.svg)
 
