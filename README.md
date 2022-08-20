@@ -1,6 +1,6 @@
-# My name is Luan, welcome to my GitHub 💻
-
-> "_Hey you, you're finally awake!_" - _Ralof of Riverwood._
+<p align="center">
+  <img src="https://data.whicdn.com/images/350989735/original.gif" />
+</p>
 
 ## I'm a tech enthusiast, a developer and a gamer.
 
@@ -51,7 +51,6 @@
 
 </div>
 <img align="left" alt="JavaScript" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="padding-right:10px;" title="JavaScript" />
-<img align="left" alt="React Native" width="40px" height="40px" src="https://e7.pngegg.com/pngimages/661/898/png-clipart-react-javascript-library-web-development-vue-js-funding-icon-logo-symmetry.png" style="padding-right:10px;" title="React Native" />
 <img align="left" alt="TypeScript" width="40px" height="40px" src="https://www.svgrepo.com/show/303600/typescript-logo.svg" style="padding-right:10px;" title="TypeScript" />
 <img align="left" alt="Angular" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png" style="padding-right:10px;" title="Angular" />
 
@@ -67,7 +66,7 @@
 
  <img align="left" alt="React" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" style="padding-right:10px;" title="React" />
 <img align="left" alt="Intellij" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" style="padding-right:10px;" title="Intellij"/>
-
+<img align="left" alt="React Native" width="40px" height="40px" src="https://e7.pngegg.com/pngimages/661/898/png-clipart-react-javascript-library-web-development-vue-js-funding-icon-logo-symmetry.png" style="padding-right:10px;" title="React Native" />
 <br></br>
 
 ##
