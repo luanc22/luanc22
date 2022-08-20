@@ -1,6 +1,10 @@
 <p align="center">
   <img src="https://data.whicdn.com/images/350989735/original.gif" />
 </p>
+<p align="center"><i>"Never tell me the odds."</i> - Han Solo </p>
+
+
+
 
 ## I'm a tech enthusiast, a developer and a gamer.
 
