@@ -10,7 +10,7 @@
 
 🌎 — Languages: Portuguese (Native/Fluent); English (Advanced); Spanish (Beginner); French (Beginner).
 
-⭐ — Experiences: I never had an opportunity to work as a developer, but I have former experiences with costumer support and infrastructure.
+⭐ — Experiences: Currently, I'm working as a Junior Developer at NDD Tech Brasil. Languages used are C#, Typescript and Angular.
 
 🚀 — Career Goals: I'm looking for a opportunity to work as a developer and grow in the area, to create a path where I can get more experience and learnings to form a stable life for myself, and I'm currently looking to collaborate on any projects that involves any of the programming languages that I know, application or web.
 
