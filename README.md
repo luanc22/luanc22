@@ -36,14 +36,15 @@
 <img align="left" alt="Python" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" style="padding-right:10px;" title="Python" />
 <img align="left" alt="HTML5" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" title="HTML5"/>
 <img align="left" alt="CSS3" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" title="CSS3"/>
+  <img align="left" alt="JavaScript" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="padding-right:10px;" title="JavaScript" />
+<img align="left" alt="TypeScript" width="40px" height="40px" src="https://www.svgrepo.com/show/303600/typescript-logo.svg" style="padding-right:10px;" title="TypeScript" />
+<img align="left" alt="Angular" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png" style="padding-right:10px;" title="Angular" />
 <img align="left" alt="PostgreSQL" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" style="padding-right:10px;" title="PostgreSQL"/>
 <img align="left" alt="Microsoft SQL Server" width="40px" height="40px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="padding-right:10px;" title="Microsoft SQL Server"/> 
-<img align="left" alt="Visual Studio Code" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" title="VSCode" />
-<img align="left" alt="Visual Studio" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png" style="padding-right:10px;" title="Visual Studio" />
-<img align="left" alt="NetBeans" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" style="padding-right:10px;" title="NetBeans" />
 <img align="left" alt="Git" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" title="Git"/>
 <img align="left" alt="GitHub" width="40px" height="40px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" style="padding-right:10px;" title="Github"/>
 <img align="left" alt="GitHub" width="40px" height="40px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" style="padding-right:10px;" title="Github"/>
+  
 
 </div>
 
@@ -54,9 +55,8 @@
 ### Currently learning:
 
 </div>
-<img align="left" alt="JavaScript" width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="padding-right:10px;" title="JavaScript" />
-<img align="left" alt="TypeScript" width="40px" height="40px" src="https://www.svgrepo.com/show/303600/typescript-logo.svg" style="padding-right:10px;" title="TypeScript" />
-<img align="left" alt="Angular" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png" style="padding-right:10px;" title="Angular" />
+<img align="left" alt="Docker" width="40px" height="40px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" style="padding-right:10px;" title="Docker" />
+<img align="left" alt="Restful API" width="40px" height="40px" src="https://www.sovereignconsult.com/wp-content/uploads/2020/03/RestApi.png" style="padding-right:10px;" title="Restful API" />
 
 </div>
 
