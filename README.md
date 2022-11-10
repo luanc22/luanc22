@@ -12,7 +12,7 @@
 
 ⭐ — Experiences: Currently, I'm working as a Junior Developer at NDD Tech Brasil. Languages used are C# & Typescript (Angular Framework).
 
-🚀 — Career Goals: I'm looking for a opportunity to work as a developer and grow in the area, to create a path where I can get more experience and learnings to form a stable life for myself, and I'm currently looking to collaborate on any projects that involves any of the programming languages that I know, application or web.
+🚀 — Career Goals: I'm looking for an opportunity to work as a developer and grow in the area, to create a path where I can get more experience and learnings to form a stable life for myself, and to go beyond, achieve something that I can consider my "mark".
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=luantks&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=luantks&redirect=true)
 
