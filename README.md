@@ -14,7 +14,7 @@
 
 🚀 — Career Goals: I'm looking for an opportunity to work as a developer and grow in the area, to create a path where I can get more experience and learnings to form a stable life for myself, and to go beyond, achieve something that I can consider my "mark".
 
-<img align="left" alt="Spotify" width="20px" height="30px" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1200px-Spotify_logo_without_text.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1200px-Spotify_logo_without_text.svg.png)" style="padding-right:10px;" title="Spotify"/> — Listening to/Last song listened on Spotify:
+<img align="left" alt="Spotify" width="20px" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1200px-Spotify_logo_without_text.svg.png" style="padding-right:10px;" title="Spotify"/> — Listening to/Last song listened on Spotify:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=luantks&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=luantks&redirect=true)
 
