@@ -62,6 +62,8 @@
 <img align="left" alt="Docker" width="30px" height="30px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" style="padding-right:10px;" title="Docker" />
 <img align="left" alt="Swagger" width="30px" height="30px" src="https://seeklogo.com/images/S/swagger-logo-A49F73BAF4-seeklogo.com.png" style="padding-right:10px;" title="Swagger" />
 <img align="left" alt="MediatR" width="30px" height="30px" src="https://plugins.jetbrains.com/files/18313/229119/icon/pluginIcon.svg" style="padding-right:10px;" title="MediatR" />
+<img align="left" alt="Elastic Search" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" style="padding-right:10px;" title="Elastic Search" />
+<img align="left" alt="Kibana" width="30px" height="30px" src="https://cdn.iconscout.com/icon/free/png-256/kibana-3628875-3030015.png" style="padding-right:10px;" title="Kibana" />
 
 </div>
 
