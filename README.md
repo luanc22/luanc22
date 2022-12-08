@@ -44,7 +44,11 @@
   <img align="left" alt="Angular" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png" style="padding-right:10px;" title="Angular" />
 </div>
 
- ### Tools:
+<br></br>
+
+##
+
+### Tools:
  
  <div>
   <img align="left" alt="PostgreSQL" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" style="padding-right:10px;" title="PostgreSQL"/>
@@ -65,7 +69,7 @@
 
 </div>
   <img align="left" alt="NodeJS" width="30px" height="30px" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" style="padding-right:10px;" title="NodeJS" />
-  <img align="left" alt="Vue" width="30px" height="30px" src="https://www.iconfinder.com/icons/4518774/vuejs_icon" style="padding-right:10px;" title="Vue" />
+  <img align="left" alt="Vue" width="30px" height="30px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/367_Vuejs-512.png" style="padding-right:10px;" title="Vue" />
 </div>
 
 <br></br>
