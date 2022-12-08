@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://data.whicdn.com/images/350989735/original.gif" />
+  <img src="https://i.pinimg.com/originals/b1/6c/ab/b16cab79f718da02916e4ce17fb16961.gif" />
 </p>
-<h4 align="center"><i>"Never tell me the odds."</i> - Han Solo </h4>
+<h4 align="center"><i>"No gods or kings. Only man."</i></h4>
 
 
 
@@ -52,7 +52,7 @@
  
  <div>
   <img align="left" alt="PostgreSQL" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" style="padding-right:10px;" title="PostgreSQL"/>
-  <img align="left" alt="Microsoft SQL Server" width="30px" height="30px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="padding-right:10px;" title="Microsoft SQL Server"/> 
+  <img align="left" alt="Microsoft SQL Server" width="30px" height="30px" src="https://img.icons8.com/color/480/microsoft-sql-server.png" style="padding-right:10px;" title="Microsoft SQL Server"/> 
   <img align="left" alt="Git" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" title="Git"/>
   <img align="left" alt="GitHub" width="30px" height="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" style="padding-right:10px;" title="Github"/>
   <img align="left" alt="GitHub" width="30px" height="30px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" style="padding-right:10px;" title="Github"/>
