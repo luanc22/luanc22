@@ -27,30 +27,35 @@
 <div> 
 <a href ="mailto:luancabral5566@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/luanc22/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
 </div>
 
 ##
 
-### Languages and Tools:
+### Languages:
 
-<div>
-<img align="left" alt="CSharp" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" style="padding-right:10px;" title="CSharp" />
-<img align="left" alt="Java" width="30px" height="30px" src="https://brandlogos.net/wp-content/uploads/2021/11/java-logo.png" style="padding-right:10px;" title="Java" />
-<img align="left" alt="Python" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" style="padding-right:10px;" title="Python" />
-<img align="left" alt="HTML5" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" title="HTML5"/>
-<img align="left" alt="CSS3" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" title="CSS3"/>
-  <img align="left" alt="JavaScript" width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="padding-right:10px;" title="JavaScript" />
-<img align="left" alt="TypeScript" width="30px" height="30px" src="https://www.svgrepo.com/show/303600/typescript-logo.svg" style="padding-right:10px;" title="TypeScript" />
-<img align="left" alt="Angular" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png" style="padding-right:10px;" title="Angular" />
-<img align="left" alt="PostgreSQL" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" style="padding-right:10px;" title="PostgreSQL"/>
-<img align="left" alt="Microsoft SQL Server" width="30px" height="30px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="padding-right:10px;" title="Microsoft SQL Server"/> 
-<img align="left" alt="Git" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" title="Git"/>
-<img align="left" alt="GitHub" width="30px" height="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" style="padding-right:10px;" title="Github"/>
-<img align="left" alt="GitHub" width="30px" height="30px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" style="padding-right:10px;" title="Github"/>
-  
-
+<div>  
+  <img align="left" alt="CSharp" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" style="padding-right:10px;" title="CSharp" />
+  <img align="left" alt="Java" width="30px" height="30px" src="https://brandlogos.net/wp-content/uploads/2021/11/java-logo.png" style="padding-right:10px;" title="Java" />
+  <img align="left" alt="Python" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" style="padding-right:10px;" title="Python" />
+  <img align="left" alt="HTML5" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" title="HTML5"/>
+  <img align="left" alt="CSS3" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" title="CSS3"/>
+    <img align="left" alt="JavaScript" width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="padding-right:10px;" title="JavaScript" />
+  <img align="left" alt="TypeScript" width="30px" height="30px" src="https://www.svgrepo.com/show/303600/typescript-logo.svg" style="padding-right:10px;" title="TypeScript" />
+  <img align="left" alt="Angular" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png" style="padding-right:10px;" title="Angular" />
 </div>
+
+ ### Tools:
+ 
+ <div>
+  <img align="left" alt="PostgreSQL" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" style="padding-right:10px;" title="PostgreSQL"/>
+  <img align="left" alt="Microsoft SQL Server" width="30px" height="30px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="padding-right:10px;" title="Microsoft SQL Server"/> 
+  <img align="left" alt="Git" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" title="Git"/>
+  <img align="left" alt="GitHub" width="30px" height="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" style="padding-right:10px;" title="Github"/>
+  <img align="left" alt="GitHub" width="30px" height="30px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" style="padding-right:10px;" title="Github"/>
+  <img align="left" alt="Docker" width="30px" height="30px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" style="padding-right:10px;" title="Docker" />
+  <img align="left" alt="Swagger" width="30px" height="30px" src="https://seeklogo.com/images/S/swagger-logo-A49F73BAF4-seeklogo.com.png" style="padding-right:10px;" title="Swagger" />
+  <img align="left" alt="Kibana" width="30px" height="30px" src="https://cdn.iconscout.com/icon/free/png-256/kibana-3628875-3030015.png" style="padding-right:10px;" title="Kibana" />
+  </div>
 
 <br></br>
 
@@ -59,12 +64,8 @@
 ### Currently learning:
 
 </div>
-<img align="left" alt="Docker" width="30px" height="30px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" style="padding-right:10px;" title="Docker" />
-<img align="left" alt="Swagger" width="30px" height="30px" src="https://seeklogo.com/images/S/swagger-logo-A49F73BAF4-seeklogo.com.png" style="padding-right:10px;" title="Swagger" />
-<img align="left" alt="MediatR" width="30px" height="30px" src="https://plugins.jetbrains.com/files/18313/229119/icon/pluginIcon.svg" style="padding-right:10px;" title="MediatR" />
-<img align="left" alt="Elastic Search" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" style="padding-right:10px;" title="Elastic Search" />
-<img align="left" alt="Kibana" width="30px" height="30px" src="https://cdn.iconscout.com/icon/free/png-256/kibana-3628875-3030015.png" style="padding-right:10px;" title="Kibana" />
-
+  <img align="left" alt="NodeJS" width="30px" height="30px" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" style="padding-right:10px;" title="NodeJS" />
+  <img align="left" alt="Vue" width="30px" height="30px" src="https://www.iconfinder.com/icons/4518774/vuejs_icon" style="padding-right:10px;" title="Vue" />
 </div>
 
 <br></br>
