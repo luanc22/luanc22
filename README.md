@@ -59,6 +59,7 @@
   <img align="left" alt="Docker" width="30px" height="30px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" style="padding-right:10px;" title="Docker" />
   <img align="left" alt="Swagger" width="30px" height="30px" src="https://seeklogo.com/images/S/swagger-logo-A49F73BAF4-seeklogo.com.png" style="padding-right:10px;" title="Swagger" />
   <img align="left" alt="Kibana" width="30px" height="30px" src="https://cdn.iconscout.com/icon/free/png-256/kibana-3628875-3030015.png" style="padding-right:10px;" title="Kibana" />
+  <img align="left" alt="Postman" width="30px" height="30px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" style="padding-right:10px;" title="Postman" />
   </div>
 
 <br></br>
