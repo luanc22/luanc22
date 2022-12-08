@@ -31,7 +31,7 @@
 
 ##
 
-### Languages:
+### Languages & Frameworks:
 
 <div>  
   <img align="left" alt="CSharp" width="30px" height="30px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" style="padding-right:10px;" title="CSharp" />
