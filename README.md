@@ -10,8 +10,6 @@
 
 🌎 — Languages: Portuguese (Native/Fluent); English (Advanced); Spanish (Beginner); French (Beginner).
 
-⭐ — Experiences: Currently, I'm working as a Junior Developer at NDD Tech Brasil. Languages used are C# & Typescript (Angular Framework).
-
 🚀 — Career Goals: I'm looking for an opportunity to work as a developer and grow in the area, to create a path where I can get more experience and learnings to form a stable life for myself, and to go beyond, achieve something that I can consider my "mark".
 
 <img align="left" alt="Spotify" width="20px" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1200px-Spotify_logo_without_text.svg.png" style="padding-right:10px;"  title="Spotify"/> Last song listened on Spotify:
